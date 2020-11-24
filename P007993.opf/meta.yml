@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD19983
   title: 'ཟབ་ཆོས་ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ། '
-  volume: ''
+  volume:
+    bc7c96cb12fd40d7a66fc5ece5b0038f:
+      image_group_id: I2PD19995
+      title: Volume 1 of zab chos zhi khro dgongs pa rang grol/
+      volume_number: 1
+      total_pages: 336
   author: ''
+ebook_metadata:
+  title: 'ཟབ་ཆོས་ཞི་ཁྲོ་དགོངས་པ་རང་གྲོལ། '
+  author: ''
+  sku: P007993
+  cover: cover.jpg
+  layers:
+  - pagination
